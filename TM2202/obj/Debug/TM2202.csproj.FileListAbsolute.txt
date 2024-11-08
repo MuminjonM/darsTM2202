@@ -1,0 +1,8 @@
+D:\TM2202\TM2202\bin\Debug\TM2202.exe.config
+D:\TM2202\TM2202\bin\Debug\TM2202.exe
+D:\TM2202\TM2202\bin\Debug\TM2202.pdb
+D:\TM2202\TM2202\obj\Debug\TM2202.csproj.AssemblyReference.cache
+D:\TM2202\TM2202\obj\Debug\TM2202.csproj.SuggestedBindingRedirects.cache
+D:\TM2202\TM2202\obj\Debug\TM2202.csproj.CoreCompileInputs.cache
+D:\TM2202\TM2202\obj\Debug\TM2202.exe
+D:\TM2202\TM2202\obj\Debug\TM2202.pdb

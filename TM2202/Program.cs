@@ -10,13 +10,12 @@ namespace TM2202
     {
         static void Main(string[] args)
         {
-            int a = 36, b = 48, c=72, d=96;
+            int a = 15, b = 12;
 
-            int ab=ekub(a,b);
-            int cd = ekub(c, d);
-            int natija = ekub(ab,cd);
+           
+            Console.WriteLine("ekub= " + ekub(a,b));
+            Console.WriteLine("ekuk= " + ekuk(a, b));
 
-            Console.WriteLine("ekub= " + natija);
             Console.ReadKey();  
         }
 
@@ -30,5 +29,11 @@ namespace TM2202
             }
             return a;
         }
+
+        public static int ekuk(int a,int b) {
+
+            return a * b / ekub(a, b);
+        }
+
     }
 }
